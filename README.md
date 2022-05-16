@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rebecca!
-- 👀 I’m interested in software amd game developing!
+- 👀 I’m interested in software and data!
 - 🌱 I’m currently learning Python 3!
 - 📫 Linkedin: Rebecca Fern
 
